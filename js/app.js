@@ -36,31 +36,7 @@ var app = new Framework7({
     	url: 'perfil.html',
     	name: 'perfil',
   		},
-		{
-		path: '/detalles-M/',
-    	url: 'detalles-M.html',
-    	name: 'detalles-M',
-  		},
-		{
-		path: '/detalles-L/',
-    	url: 'detalles-L.html',
-    	name: 'detalles-L',
-  		},
-		{
-		path: '/detalles-S/',
-    	url: 'detalles-S.html',
-    	name: 'detalles-S',
-  		},
-		{
-		path: '/detalles-XL/',
-    	url: 'detalles-XL.html',
-    	name: 'detalles-XL',
-  		},
-				{
-		path: '/detalles-XXL/',
-    	url: 'detalles-XXL.html',
-    	name: 'detalles-XXL',
-  		}
+	
 		
 	],
 	dialog: {
