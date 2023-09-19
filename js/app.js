@@ -37,20 +37,30 @@ var app = new Framework7({
     	name: 'perfil',
   		},
 		{
-		path: '/detalles-faldas/',
-    	url: 'detalles faldas.html',
-    	name: 'detalles-faldas',
+		path: '/detalles-M/',
+    	url: 'detalles-M.html',
+    	name: 'detalles-M',
   		},
 		{
-		path: '/detalles-jeans/',
-    	url: 'detalles jeans.html',
-    	name: 'detalles-jeans',
+		path: '/detalles-L/',
+    	url: 'detalles-L.html',
+    	name: 'detalles-L',
   		},
 		{
-		path: '/detalles-leggings/',
-    	url: 'detalles leggings.html',
-    	name: 'detalles-leggings',
+		path: '/detalles-S/',
+    	url: 'detalles-S.html',
+    	name: 'detalles-S',
   		},
+		{
+		path: '/detalles-XL/',
+    	url: 'detalles-XL.html',
+    	name: 'detalles-XL',
+  		},
+				{
+		path: '/detalles-XXL/',
+    	url: 'detalles-XXL.html',
+    	name: 'detalles-XXL',
+  		}
 		
 	],
 	dialog: {
